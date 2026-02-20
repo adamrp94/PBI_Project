@@ -5,6 +5,9 @@ PBI Hackio Project
 
 **1. Introducción y Objetivo**
 Este proyecto analiza la efectividad de una campaña de marketing directo de una institución bancaria portuguesa. El objetivo es predecir si un cliente contratará un depósito a plazo basándose en su perfil demográfico, su historial financiero y el contexto económico actual.
+<br>
+<br>
+<br>
 
 **2. Cumplimiento de Requisitos**
 ✅ Dos conjuntos de datos en bruto: Se han utilizado dos fuentes (Datos de Clientes y Datos de Indicadores Económicos)(csv+ .db).
@@ -28,6 +31,8 @@ Creación de nuevas variables como age group, risk profile, financial profile...
 Simplificacion de niveles educativos
 
 ![Ejemplo3](Picture3.png)
+<br>
+<br>
 
 > En PowerQuery: 
 
@@ -41,15 +46,17 @@ Como en esta base de datos no tenemos datos temporales no he creado Dimension ca
 Tres tabs con algunos filtro e indicadores globales
 
 ![Ejemplo](Picture1.png)
-
+<br>
+<br>
 ✅ Organización de Carpetas: Estructura clara en GitHub (/data, /notebooks, /dashboard, /reports).
-
-
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 **3. Informe Explicativo del Análisis (El "Storytelling")**
 > Primero en Python
@@ -62,6 +69,10 @@ Correlacion variables númericas
 Analisis por perfil Riesgo e Educación
 Gráficos
 
+<br>
+<br>
+<br>
+<br>
 > Posteriormente en Powerbi
 
 Client Profile Analysis tab
