@@ -54,12 +54,9 @@ Tres tabs con algunos filtro e indicadores globales
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
 
 **3. Informe Explicativo del Análisis (El "Storytelling")**
-> Primero en Python
+**> Primero en Python**
 
 ![EjemploVSCODE](Picture2.png)
 
@@ -73,28 +70,35 @@ Gráficos
 <br>
 <br>
 <br>
-> Posteriormente en Powerbi
 
-Client Profile Analysis tab
-Financial health Analysis
-Economic Environmnet Analysis
+**> Posteriormente en Powerbi**
+
+Client Profile Analysis tab<br>
+Financial health Analysis<br>
+Economic Environmnet Analysis<br>
+<br>
+<br>
+<br>
 
 A. Análisis Descriptivo (Perfil del Cliente)
 Hallazgo: La mayor tasa de conversión se encuentra en los extremos de edad (estudiantes y jubilados).
 
-Impacto: El estado civil "casado" es el más común, pero los "solteros" muestran mayor predisposición a la inversión.
+**Impacto: El estado civil "casado" es el más común, pero los "solteros" muestran mayor predisposición a la inversión.**
 
 B. Análisis Estadístico y Financiero (Salud Financiera)
 Indicador de Riesgo: Se creó una medida DAX para identificar clientes de "Alto Riesgo" (aquellos con préstamos personales e hipotecas simultáneas).
 
-Conclusión: Existe una correlación negativa entre tener préstamos activos y la contratación del depósito.
+**Conclusión: Existe una correlación negativa entre tener préstamos activos y la contratación del depósito.**
 
 C. Análisis del Entorno Económico (Macro)
 El Factor Euribor: Mediante el uso de Bins, demostramos estadísticamente que cuando el Euribor 3M supera el 1.5%, la conversión cae por debajo del 5%.
 
-Resiliencia e IPC: El índice de precios al consumidor muestra picos de resistencia donde la inversión se estanca debido a la inflación.
-
+**Resiliencia e IPC: El índice de precios al consumidor muestra picos de resistencia donde la inversión se estanca debido a la inflación.**
+<br>
+<br>
+<br>
 **4. Pasos Seguidos (WorkFlow)
+<br>
 EDA (Python/VS Code): Análisis exploratorio inicial y detección de outliers.
 
 Limpieza (Pandas): Unificación de fuentes de datos mediante merge y normalización de textos.
