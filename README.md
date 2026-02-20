@@ -29,7 +29,7 @@ Creación de nuevas variables como age group, risk profile, financial profile...
 
 Simplificacion de niveles educativos
 
-![Ejemplo3](Picture3.png)
+![Ejemplo3](img/Picture3.png)
 <br>
 <br>
 
@@ -44,7 +44,7 @@ Como en esta base de datos no tenemos datos temporales no he creado Dimension ca
 
 Tres tabs con algunos filtro e indicadores globales
 
-![Ejemplo](Picture1.png)
+![Ejemplo](img/Picture1.png)
 <br>
 <br>
 ✅ Organización de Carpetas: Estructura clara en GitHub (/data, /notebooks, /dashboard, /reports).
@@ -55,7 +55,7 @@ Tres tabs con algunos filtro e indicadores globales
 <br>
 **> Primero en Python**
 
-![EjemploVSCODE](Picture2.png)
+![EjemploVSCODE](img/Picture2.png)
 
 Calculando Tasa de conversion
 Analisis por grupo de edad
