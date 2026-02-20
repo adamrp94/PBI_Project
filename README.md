@@ -1,7 +1,7 @@
 # PBI_Project
 PBI Hackio Project
 
-## 📑 Estructura del Proyecto: Depósito Bancario & Análisis Macroeconómico
+## 📑 Estructura y Analisis del Proyecto: Depósito Bancario & Análisis Macroeconómico
 <br>
 **1. Introducción y Objetivo**
 Este proyecto analiza la efectividad de una campaña de marketing directo de una institución bancaria portuguesa. El objetivo es predecir si un cliente contratará un depósito a plazo basándose en su perfil demográfico, su historial financiero y el contexto económico actual.
@@ -89,6 +89,13 @@ El Factor Euribor: Mediante el uso de Bins, demostramos estadísticamente que cu
 <br>
 <br>
 <br>
+
+# Análisis Estadístico
+* **Tasa de Conversión Media:** 11.38%.
+* **Euribor 3M Promedio:** 3.62.
+* **Correlación:** Se observó una correlación negativa significativa entre el nivel de Euribor y la tasa de conversión, validada mediante la agrupación por Bins.
+
+* 
 **4. Pasos Seguidos (WorkFlow)**
 <br>
 EDA (Python/VS Code): Análisis exploratorio inicial y detección de outliers.
