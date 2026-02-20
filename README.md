@@ -1,19 +1,19 @@
 # PBI_Project
 PBI Hackio Project
 
-📑 Estructura del Proyecto: Depósito Bancario & Análisis Macroeconómico
+## 📑 Estructura del Proyecto: Depósito Bancario & Análisis Macroeconómico
 
-**1. Introducción y Objetivo
+** 1. Introducción y Objetivo**
 Este proyecto analiza la efectividad de una campaña de marketing directo de una institución bancaria portuguesa. El objetivo es predecir si un cliente contratará un depósito a plazo basándose en su perfil demográfico, su historial financiero y el contexto económico actual.
 
-**2. Cumplimiento de Requisitos
+** 2. Cumplimiento de Requisitos**
 ✅ Dos conjuntos de datos en bruto: Se han utilizado dos fuentes (Datos de Clientes y Datos de Indicadores Económicos)(csv+ .db).
 
 ✅ Conjunto de datos final: Tras el merge en Python, el dataset supera las 50,000 filas y 20 columnas requeridas.
 
 ✅ Transformación y Limpieza Profunda:
 
-**Primero en python:
+** Primero en python:**
 
 Cambiamos los puntos por guiones bajos
 
@@ -27,7 +27,7 @@ Creación de nuevas variables como age group, risk profile, financial profile...
 
 Simplificacion de niveles educativos
 
-**En PowerQuery:
+** En PowerQuery: **
 
 He considerado añadir un indice a la tabla y dividirla para hacer un modelo estrella porque en otro curso no sdijeronque son buenas praxis y es mejor.
 Tenemos una tabla clientes, Una tabla financiera y otra con algunas medidas. Se conectan con el ID
@@ -40,7 +40,7 @@ Tres tabs con algunos filtro e indicadores globales
 
 ✅ Organización de Carpetas: Estructura clara en GitHub (/data, /notebooks, /dashboard, /reports).
 
-**3. Informe Explicativo del Análisis (El "Storytelling")
+** 3. Informe Explicativo del Análisis (El "Storytelling") **
 Aquí es donde explicas los hallazgos de tus 3 pestañas de Power BI:
 
 A. Análisis Descriptivo (Perfil del Cliente)
