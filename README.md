@@ -27,6 +27,8 @@ Creación de nuevas variables como age group, risk profile, financial profile...
 
 Simplificacion de niveles educativos
 
+![Ejemplo3](Picture3.png)
+
 > En PowerQuery: 
 
 He considerado añadir un indice a la tabla y dividirla para hacer un modelo estrella porque en otro curso no sdijeronque son buenas praxis y es mejor.
@@ -44,8 +46,15 @@ Tres tabs con algunos filtro e indicadores globales
 
 
 
+
+
+
+
+
 **3. Informe Explicativo del Análisis (El "Storytelling")**
 > Primero en Python
+
+![EjemploVSCODE](Picture2.png)
 
 Calculando Tasa de conversion
 Analisis por grupo de edad
