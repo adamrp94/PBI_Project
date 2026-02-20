@@ -38,6 +38,8 @@ Como en esta base de datos no tenemos datos temporales no he creado Dimension ca
 
 Tres tabs con algunos filtro e indicadores globales
 
+![Ejemplo](Picture1.png)
+
 ✅ Organización de Carpetas: Estructura clara en GitHub (/data, /notebooks, /dashboard, /reports).
 
 
