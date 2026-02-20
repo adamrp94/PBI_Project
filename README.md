@@ -16,7 +16,7 @@ Este proyecto analiza la efectividad de una campaña de marketing directo de una
 
 ✅ Transformación y Limpieza Profunda:
 
-> Primero en python:
+**> Primero en python:**
 
 Cambiamos los puntos por guiones bajos
 
@@ -34,7 +34,7 @@ Simplificacion de niveles educativos
 <br>
 <br>
 
-> En PowerQuery: 
+**> En PowerQuery:**
 
 He considerado añadir un indice a la tabla y dividirla para hacer un modelo estrella porque en otro curso no sdijeronque son buenas praxis y es mejor.
 Tenemos una tabla clientes, Una tabla financiera y otra con algunas medidas. Se conectan con el ID
@@ -56,6 +56,7 @@ Tres tabs con algunos filtro e indicadores globales
 <br>
 
 **3. Informe Explicativo del Análisis (El "Storytelling")**
+<br>
 **> Primero en Python**
 
 ![EjemploVSCODE](Picture2.png)
@@ -68,9 +69,6 @@ Gráficos
 
 <br>
 <br>
-<br>
-<br>
-
 **> Posteriormente en Powerbi**
 
 Client Profile Analysis tab<br>
