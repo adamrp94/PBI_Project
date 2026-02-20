@@ -2,10 +2,9 @@
 PBI Hackio Project
 
 ## 📑 Estructura del Proyecto: Depósito Bancario & Análisis Macroeconómico
-
+<br>
 **1. Introducción y Objetivo**
 Este proyecto analiza la efectividad de una campaña de marketing directo de una institución bancaria portuguesa. El objetivo es predecir si un cliente contratará un depósito a plazo basándose en su perfil demográfico, su historial financiero y el contexto económico actual.
-<br>
 <br>
 <br>
 
@@ -90,7 +89,7 @@ El Factor Euribor: Mediante el uso de Bins, demostramos estadísticamente que cu
 <br>
 <br>
 <br>
-**4. Pasos Seguidos (WorkFlow)
+**4. Pasos Seguidos (WorkFlow)**
 <br>
 EDA (Python/VS Code): Análisis exploratorio inicial y detección de outliers.
 
