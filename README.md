@@ -51,9 +51,6 @@ Tres tabs con algunos filtro e indicadores globales
 ✅ Organización de Carpetas: Estructura clara en GitHub (/data, /notebooks, /dashboard, /reports).
 <br>
 <br>
-<br>
-<br>
-<br>
 
 **3. Informe Explicativo del Análisis (El "Storytelling")**
 <br>
@@ -66,15 +63,13 @@ Analisis por grupo de edad
 Correlacion variables númericas
 Analisis por perfil Riesgo e Educación
 Gráficos
+<br>
 
-<br>
-<br>
 **> Posteriormente en Powerbi**
 
 Client Profile Analysis tab<br>
 Financial health Analysis<br>
 Economic Environmnet Analysis<br>
-<br>
 <br>
 <br>
 
